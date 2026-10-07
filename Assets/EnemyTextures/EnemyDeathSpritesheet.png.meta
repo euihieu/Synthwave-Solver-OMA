@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: c23cf956a2abe2548b7048b2e957be4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6890335267089533452
+    second: EnemyDeathSpritesheet_0
+  - first:
+      213: 5591313910631185513
+    second: EnemyDeathSpritesheet_1
+  - first:
+      213: 7199992017232970927
+    second: EnemyDeathSpritesheet_2
+  - first:
+      213: -8809731697944271248
+    second: EnemyDeathSpritesheet_3
+  - first:
+      213: -1611051241138406037
+    second: EnemyDeathSpritesheet_4
+  - first:
+      213: -469989928493439357
+    second: EnemyDeathSpritesheet_5
+  - first:
+      213: -1294903161936712348
+    second: EnemyDeathSpritesheet_6
+  - first:
+      213: -4852000851536698175
+    second: EnemyDeathSpritesheet_7
+  - first:
+      213: -4327469929488149185
+    second: EnemyDeathSpritesheet_8
+  - first:
+      213: -5209364785474080322
+    second: EnemyDeathSpritesheet_9
+  - first:
+      213: 512838750931297777
+    second: EnemyDeathSpritesheet_10
+  - first:
+      213: 2144978146552389982
+    second: EnemyDeathSpritesheet_11
+  - first:
+      213: 3523269319516524218
+    second: EnemyDeathSpritesheet_12
+  - first:
+      213: -4460217173711997192
+    second: EnemyDeathSpritesheet_13
+  - first:
+      213: -1422378982775386880
+    second: EnemyDeathSpritesheet_14
+  - first:
+      213: 6924355217835320529
+    second: EnemyDeathSpritesheet_15
+  - first:
+      213: -2578726849378222571
+    second: EnemyDeathSpritesheet_16
+  - first:
+      213: -3250044614183124359
+    second: EnemyDeathSpritesheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyDeathSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f538c5c49c9060a0800000000000000
+      internalID: -6890335267089533452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyDeathSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c3fdea066589d40800000000000000
+      internalID: 5591313910631185513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyDeathSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5a0587028fd1700800000000000000
+      internalID: 512838750931297777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyDeathSpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972817394a585e2d0800000000000000
+      internalID: -3250044614183124359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 45ce6c8c05b7204448c13ca28398929d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EnemyDeathSpritesheet_0: -6890335267089533452
+      EnemyDeathSpritesheet_1: 5591313910631185513
+      EnemyDeathSpritesheet_10: 512838750931297777
+      EnemyDeathSpritesheet_11: 2144978146552389982
+      EnemyDeathSpritesheet_12: 3523269319516524218
+      EnemyDeathSpritesheet_13: -4460217173711997192
+      EnemyDeathSpritesheet_14: -1422378982775386880
+      EnemyDeathSpritesheet_15: 6924355217835320529
+      EnemyDeathSpritesheet_16: -2578726849378222571
+      EnemyDeathSpritesheet_17: -3250044614183124359
+      EnemyDeathSpritesheet_2: 7199992017232970927
+      EnemyDeathSpritesheet_3: -8809731697944271248
+      EnemyDeathSpritesheet_4: -1611051241138406037
+      EnemyDeathSpritesheet_5: -469989928493439357
+      EnemyDeathSpritesheet_6: -1294903161936712348
+      EnemyDeathSpritesheet_7: -4852000851536698175
+      EnemyDeathSpritesheet_8: -4327469929488149185
+      EnemyDeathSpritesheet_9: -5209364785474080322
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
